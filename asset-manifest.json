@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a0326bd.css",
+    "main.js": "/static/js/main.09a37a39.js",
+    "static/js/787.7a2248a4.chunk.js": "/static/js/787.7a2248a4.chunk.js",
+    "static/media/gallery03.jpg": "/static/media/gallery03.d2db28726aa7a4b0eb1b.jpg",
+    "static/media/logo.png": "/static/media/logo.b83984170e759419200f.png",
+    "static/media/gallery02.jpg": "/static/media/gallery02.2f1f61aac0b91aab7494.jpg",
+    "static/media/gallery05.jpg": "/static/media/gallery05.b457188d412fbfe2cf1a.jpg",
+    "static/media/home_img01.png": "/static/media/home_img01.b067ae08f2b2c6fe8c6c.png",
+    "static/media/gallery01.jpg": "/static/media/gallery01.a15ccce0ecf59165029a.jpg",
+    "static/media/gallery04.jpg": "/static/media/gallery04.be92898b4c2f25d644a6.jpg",
+    "static/media/berlin_sans_fb_demi_bold-webfont.woff": "/static/media/berlin_sans_fb_demi_bold-webfont.abc19f48be66cec5fab8.woff",
+    "static/media/breadcrumb_img01.png": "/static/media/breadcrumb_img01.5362cceb61c23006241a.png",
+    "static/media/breadcrumb_img03.png": "/static/media/breadcrumb_img03.3f6e81cb67ded7260d34.png",
+    "static/media/tournament_thumb01.png": "/static/media/tournament_thumb01.f2c0b942931740d2ae09.png",
+    "static/media/tournament_thumb02.png": "/static/media/tournament_thumb02.f3b995779d4a93cf8216.png",
+    "static/media/berlin_sans_fb_demi_bold-webfont.woff2": "/static/media/berlin_sans_fb_demi_bold-webfont.d74a761813585c4cbb89.woff2",
+    "static/media/team03.png": "/static/media/team03.aef593b2edc0c7120fbd.png",
+    "static/media/team01.png": "/static/media/team01.75a21bd76459a24f6bd6.png",
+    "static/media/team02.png": "/static/media/team02.09811140917fc11b15be.png",
+    "static/media/tournament_thumb03.png": "/static/media/tournament_thumb03.66d21579187f6be62277.png",
+    "static/media/team04.png": "/static/media/team04.f319776a0c1160927e48.png",
+    "index.html": "/index.html",
+    "main.9a0326bd.css.map": "/static/css/main.9a0326bd.css.map",
+    "main.09a37a39.js.map": "/static/js/main.09a37a39.js.map",
+    "787.7a2248a4.chunk.js.map": "/static/js/787.7a2248a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a0326bd.css",
+    "static/js/main.09a37a39.js"
+  ]
+}
